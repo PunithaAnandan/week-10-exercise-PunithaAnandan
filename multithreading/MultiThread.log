@@ -1,0 +1,115 @@
+2017-04-02 17:21:21,213 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:33:48,508 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:36:23,384 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:37:29,793 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:37:29,793 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:43:10,529 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:43:10,529 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:43:10,532 3    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:10,532 3    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:10,532 3    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:10,532 3    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:14,543 4014 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:14,543 4014 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:14,544 4015 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:14,544 4015 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:17,550 7021 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:17,550 7021 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:17,550 7021 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:17,550 7021 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:20,555 10026 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:20,555 10026 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:20,555 10026 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:20,555 10026 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:23,564 13035 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:23,564 13035 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:23,565 13036 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:23,565 13036 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:29,573 19044 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:29,573 19044 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:43:29,573 19044 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:43:29,573 19044 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:01,685 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:46:01,685 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:46:01,687 2    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:01,687 2    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:01,687 2    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:01,687 2    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:09,698 8013 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:09,698 8013 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:09,698 8013 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:09,698 8013 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:12,708 11023 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:12,708 11023 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:12,708 11023 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:12,708 11023 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:15,712 14027 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:15,712 14027 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:46:15,712 14027 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:46:15,712 14027 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:49:51,572 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:49:51,572 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 17:49:51,574 2    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:49:51,574 2    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:49:51,574 2    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:49:51,574 2    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:49:57,577 6005 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:49:57,577 6005 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:49:57,578 6006 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:49:57,578 6006 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:00,584 9012 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:00,584 9012 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:00,585 9013 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:00,585 9013 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:03,593 12021 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:03,593 12021 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:03,595 12023 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:03,595 12023 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:06,598 15026 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:06,598 15026 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 17:50:06,598 15026 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:50:06,598 15026 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 17:56:13,368 1    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:56:13,368 1    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 17:58:50,133 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 18:09:17,036 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 18:09:17,038 2    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:09:17,038 2    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:09:26,048 9012 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:09:26,048 9012 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:09:29,049 12013 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:09:29,050 12014 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:09:32,055 15019 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:09:32,055 15019 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:09:35,062 18026 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:09:35,063 18027 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:18:59,580 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 18:18:59,584 4    [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:18:59,584 4    [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:19:02,594 3014 [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:19:02,594 3014 [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:19:49,213 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 18:19:49,228 15   [Thread-0] INFO  edu.matc.House  - Riley answers the door
+2017-04-02 18:19:49,228 15   [Thread-0] INFO  edu.matc.House  - Riley gives candy
+2017-04-02 18:29:13,008 0    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 18:29:13,011 3    [Thread-1] INFO  edu.matc.TrickOrTreaterGenerator  - threadTrickOrTreater create and start in the TrickOrTreaterGenerator class
+2017-04-02 18:29:13,013 5    [Thread-0] INFO  edu.matc.House  - Give candy method starts
+2017-04-02 18:29:13,013 5    [Thread-2] INFO  edu.matc.TrickOrTreater  - goForTrickOrTreat method call here
+2017-04-02 18:29:13,013 5    [Thread-2] INFO  edu.matc.House  - TrickOrTreater starts adding in the Linked List 
+2017-04-02 18:29:13,013 5    [Thread-2] INFO  edu.matc.House  - End of adding TrickOrTreaters in the Linked List
+2017-04-02 18:29:14,062 1054 [Thread-3] INFO  edu.matc.TrickOrTreater  - goForTrickOrTreat method call here
+2017-04-02 18:29:14,062 1054 [Thread-3] INFO  edu.matc.House  - TrickOrTreater starts adding in the Linked List 
+2017-04-02 18:29:14,063 1055 [Thread-3] INFO  edu.matc.House  - End of adding TrickOrTreaters in the Linked List
+2017-04-02 18:29:16,014 3006 [Thread-0] INFO  edu.matc.House  - End of giving candy method
+2017-04-02 18:29:16,015 3007 [Thread-0] INFO  edu.matc.House  - Give candy method starts
+2017-04-02 18:29:19,022 6014 [Thread-0] INFO  edu.matc.House  - End of giving candy method
+2017-04-02 18:29:19,022 6014 [Thread-0] INFO  edu.matc.House  - Give candy method starts
+2017-04-02 18:29:20,040 7032 [Thread-4] INFO  edu.matc.TrickOrTreater  - goForTrickOrTreat method call here
+2017-04-02 18:29:20,040 7032 [Thread-4] INFO  edu.matc.House  - TrickOrTreater starts adding in the Linked List 
+2017-04-02 18:29:20,041 7033 [Thread-4] INFO  edu.matc.House  - End of adding TrickOrTreaters in the Linked List
+2017-04-02 18:29:23,043 10035 [Thread-0] INFO  edu.matc.House  - End of giving candy method
+2017-04-02 18:29:23,044 10036 [Thread-0] INFO  edu.matc.House  - Give candy method starts
+2017-04-02 18:30:17,160 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
+2017-04-02 18:30:17,165 5    [Thread-0] INFO  edu.matc.Riley  - Trick-Or-Treating begins..
+2017-04-02 18:30:17,166 6    [Thread-1] INFO  edu.matc.TrickOrTreaterGenerator  - threadTrickOrTreater create and start in the TrickOrTreaterGenerator class
+2017-04-02 18:30:51,713 0    [main] INFO  edu.matc.TvWatchingRileyTest  - Just before creating a thread
